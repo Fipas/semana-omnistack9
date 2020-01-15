@@ -1,0 +1,1 @@
+module.exports = text => text.split(',').map(tech => tech.trim());
